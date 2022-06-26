@@ -1,0 +1,869 @@
+{
+    "plus_code": {
+        "compound_code": "3RV9+568 Rio de Janeiro, RJ, Brasil",
+        "global_code": "589R3RV9+568"
+    },
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "32",
+                    "short_name": "32",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rua Silva Jardim",
+                    "short_name": "R. Silva Jardim",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Centro",
+                    "short_name": "Centro",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "20050-060",
+                    "short_name": "20050-060",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "R. Silva Jardim, 32 - Centro, Rio de Janeiro - RJ, 20050-060, Brasil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.9071633,
+                        "lng": -43.1817194
+                    },
+                    "southwest": {
+                        "lat": -22.9078251,
+                        "lng": -43.1821107
+                    }
+                },
+                "location": {
+                    "lat": -22.9073639,
+                    "lng": -43.1818742
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9061452197085,
+                        "lng": -43.1805660697085
+                    },
+                    "southwest": {
+                        "lat": -22.9088431802915,
+                        "lng": -43.1832640302915
+                    }
+                }
+            },
+            "place_id": "ChIJQ6p8VmZ_mQARnurBHcCFgRM",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "3",
+                    "short_name": "3",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Praça Tiradentes",
+                    "short_name": "Praça Tiradentes",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Centro",
+                    "short_name": "Centro",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "20060-080",
+                    "short_name": "20060-080",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Praça Tiradentes, 3 - Centro, Rio de Janeiro - RJ, 20060-080, Brasil",
+            "geometry": {
+                "location": {
+                    "lat": -22.9070535,
+                    "lng": -43.1818663
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9057045197085,
+                        "lng": -43.1805173197085
+                    },
+                    "southwest": {
+                        "lat": -22.9084024802915,
+                        "lng": -43.1832152802915
+                    }
+                }
+            },
+            "place_id": "EkVQcmHDp2EgVGlyYWRlbnRlcywgMyAtIENlbnRybywgUmlvIGRlIEphbmVpcm8gLSBSSiwgMjAwNjAtMDgwLCBCcmF6aWwiGhIYChQKEgn7EIaqZ3-ZABHaFeNxGPjjfhAD",
+            "types": [
+                "street_address"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "9-3",
+                    "short_name": "9-3",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Praça Tiradentes",
+                    "short_name": "Praça Tiradentes",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Centro",
+                    "short_name": "Centro",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "20060-080",
+                    "short_name": "20060-080",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Praça Tiradentes, 9-3 - Centro, Rio de Janeiro - RJ, 20060-080, Brasil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.9070535,
+                        "lng": -43.1818663
+                    },
+                    "southwest": {
+                        "lat": -22.9071507,
+                        "lng": -43.1821801
+                    }
+                },
+                "location": {
+                    "lat": -22.9071039,
+                    "lng": -43.1820226
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9057531197085,
+                        "lng": -43.1806742197085
+                    },
+                    "southwest": {
+                        "lat": -22.9084510802915,
+                        "lng": -43.1833721802915
+                    }
+                }
+            },
+            "place_id": "ChIJ-xCGqmd_mQAR2hXjcRj4434",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "3RV9+56",
+                    "short_name": "3RV9+56",
+                    "types": [
+                        "plus_code"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "3RV9+56 Rio de Janeiro, RJ, Brasil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.907,
+                        "lng": -43.18187500000001
+                    },
+                    "southwest": {
+                        "lat": -22.907125,
+                        "lng": -43.182
+                    }
+                },
+                "location": {
+                    "lat": -22.9070828,
+                    "lng": -43.18191480000001
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9057135197085,
+                        "lng": -43.1805885197085
+                    },
+                    "southwest": {
+                        "lat": -22.90841148029151,
+                        "lng": -43.1832864802915
+                    }
+                }
+            },
+            "place_id": "GhIJnMMQlDboNsARR1Ty-0iXRcA",
+            "plus_code": {
+                "compound_code": "3RV9+56 Rio de Janeiro, RJ, Brasil",
+                "global_code": "589R3RV9+56"
+            },
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "20050-060",
+                    "short_name": "20050-060",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "Rua Silva Jardim",
+                    "short_name": "R. Silva Jardim",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Centro",
+                    "short_name": "Centro",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "R. Silva Jardim - Centro, Rio de Janeiro - RJ, 20050-060, Brasil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.9069186,
+                        "lng": -43.1812989
+                    },
+                    "southwest": {
+                        "lat": -22.9083212,
+                        "lng": -43.1826206
+                    }
+                },
+                "location": {
+                    "lat": -22.9077387,
+                    "lng": -43.1819011
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9062709197085,
+                        "lng": -43.18061076970851
+                    },
+                    "southwest": {
+                        "lat": -22.9089688802915,
+                        "lng": -43.18330873029151
+                    }
+                }
+            },
+            "place_id": "ChIJlQqa_mZ_mQARSXb0ILkbhA4",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "20060",
+                    "short_name": "20060",
+                    "types": [
+                        "postal_code",
+                        "postal_code_prefix"
+                    ]
+                },
+                {
+                    "long_name": "Centro",
+                    "short_name": "Centro",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Centro, Rio de Janeiro - RJ, 20060, Brasil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.9035265,
+                        "lng": -43.1805123
+                    },
+                    "southwest": {
+                        "lat": -22.9114196,
+                        "lng": -43.1857979
+                    }
+                },
+                "location": {
+                    "lat": -22.908049,
+                    "lng": -43.1831914
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9035265,
+                        "lng": -43.1805123
+                    },
+                    "southwest": {
+                        "lat": -22.9114196,
+                        "lng": -43.1857979
+                    }
+                }
+            },
+            "place_id": "ChIJEyn9R2Z_mQARbfxq3OojWfk",
+            "types": [
+                "postal_code",
+                "postal_code_prefix"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Centro",
+                    "short_name": "Centro",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Centro, Rio de Janeiro - RJ, Brasil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.8826894,
+                        "lng": -43.157867
+                    },
+                    "southwest": {
+                        "lat": -22.9184428,
+                        "lng": -43.19837
+                    }
+                },
+                "location": {
+                    "lat": -22.9070828,
+                    "lng": -43.18191480000001
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.8826894,
+                        "lng": -43.157867
+                    },
+                    "southwest": {
+                        "lat": -22.9184428,
+                        "lng": -43.19837
+                    }
+                }
+            },
+            "place_id": "ChIJF3IcFV5_mQARfbkw_ML5_X8",
+            "types": [
+                "political",
+                "sublocality",
+                "sublocality_level_1"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Centro",
+                    "short_name": "Centro",
+                    "types": [
+                        "administrative_area_level_5",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Centro, Rio de Janeiro - RJ, Brasil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.8826767,
+                        "lng": -43.1577393
+                    },
+                    "southwest": {
+                        "lat": -22.9181404,
+                        "lng": -43.198332
+                    }
+                },
+                "location": {
+                    "lat": -22.9068352,
+                    "lng": -43.1731367
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.8826767,
+                        "lng": -43.1577393
+                    },
+                    "southwest": {
+                        "lat": -22.9181404,
+                        "lng": -43.198332
+                    }
+                }
+            },
+            "place_id": "ChIJ7cUL72h_mQARSx7E7L2wl_o",
+            "types": [
+                "administrative_area_level_5",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Rio de Janeiro - RJ, Brasil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.7460545,
+                        "lng": -43.0990395
+                    },
+                    "southwest": {
+                        "lat": -23.0824031,
+                        "lng": -43.7961019
+                    }
+                },
+                "location": {
+                    "lat": -22.9068394,
+                    "lng": -43.1729351
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.7460545,
+                        "lng": -43.0990395
+                    },
+                    "southwest": {
+                        "lat": -23.0824031,
+                        "lng": -43.7961019
+                    }
+                }
+            },
+            "place_id": "ChIJC7UkQv5-mQAR7llshDwliPk",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Rio de Janeiro, RJ, Brasil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.7460327,
+                        "lng": -43.0969042
+                    },
+                    "southwest": {
+                        "lat": -23.0822288,
+                        "lng": -43.7950599
+                    }
+                },
+                "location": {
+                    "lat": -22.9068467,
+                    "lng": -43.1728965
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.7460327,
+                        "lng": -43.0969042
+                    },
+                    "southwest": {
+                        "lat": -23.0822288,
+                        "lng": -43.7950599
+                    }
+                }
+            },
+            "place_id": "ChIJW6AIkVXemwARTtIvZ2xC3FA",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Rio de Janeiro, Brasil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -20.7632054,
+                        "lng": -40.9579409
+                    },
+                    "southwest": {
+                        "lat": -23.3689318,
+                        "lng": -44.8893205
+                    }
+                },
+                "location": {
+                    "lat": -22.3534263,
+                    "lng": -42.7076107
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -20.7632054,
+                        "lng": -40.9579409
+                    },
+                    "southwest": {
+                        "lat": -23.3689318,
+                        "lng": -44.8893205
+                    }
+                }
+            },
+            "place_id": "ChIJw4riypQYmAAR0IMFwRrDSQM",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Brasil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 5.2717863,
+                        "lng": -28.650543
+                    },
+                    "southwest": {
+                        "lat": -34.0891,
+                        "lng": -73.9828169
+                    }
+                },
+                "location": {
+                    "lat": -14.235004,
+                    "lng": -51.92528
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 5.2717863,
+                        "lng": -28.650543
+                    },
+                    "southwest": {
+                        "lat": -34.0891,
+                        "lng": -73.9828169
+                    }
+                }
+            },
+            "place_id": "ChIJzyjM68dZnAARYz4p8gYVWik",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "status": "OK"
+}

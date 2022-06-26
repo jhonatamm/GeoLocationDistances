@@ -1,0 +1,314 @@
+{
+	"destination_addresses": [
+		"Belo Horizonte, MG, Brasil",
+		"Salvador - BA, Brasil",
+		"Rio de Janeiro, RJ, Brasil",
+		"Campos dos Goytacazes - RJ, Brasil",
+		"Av. Rio Branco, 1 - Centro, Rio de Janeiro - RJ, 20090-003, Brasil"
+	],
+	"origin_addresses": [
+		"Belo Horizonte, MG, Brasil",
+		"Salvador - BA, Brasil",
+		"Rio de Janeiro, RJ, Brasil",
+		"Campos dos Goytacazes - RJ, Brasil",
+		"Av. Rio Branco, 1 - Centro, Rio de Janeiro - RJ, 20090-003, Brasil"
+	],
+	"rows": [
+		{
+			"elements": [
+				{
+					"distance": {
+						"text": "1 m",
+						"value": 0
+					},
+					"duration": {
+						"text": "1 min",
+						"value": 0
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "1.400 km",
+						"value": 1400284
+					},
+					"duration": {
+						"text": "20 horas 30 minutos",
+						"value": 73819
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "442 km",
+						"value": 441774
+					},
+					"duration": {
+						"text": "6 horas 14 minutos",
+						"value": 22440
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "476 km",
+						"value": 475875
+					},
+					"duration": {
+						"text": "8 horas 3 minutos",
+						"value": 28992
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "439 km",
+						"value": 439072
+					},
+					"duration": {
+						"text": "6 horas 14 minutos",
+						"value": 22456
+					},
+					"status": "OK"
+				}
+			]
+		},
+		{
+			"elements": [
+				{
+					"distance": {
+						"text": "1.349 km",
+						"value": 1348774
+					},
+					"duration": {
+						"text": "20 horas 38 minutos",
+						"value": 74308
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "1 m",
+						"value": 0
+					},
+					"duration": {
+						"text": "1 min",
+						"value": 0
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "1.633 km",
+						"value": 1632875
+					},
+					"duration": {
+						"text": "1 dia 1 hora",
+						"value": 89157
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "1.420 km",
+						"value": 1419791
+					},
+					"duration": {
+						"text": "21 horas 42 minutos",
+						"value": 78117
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "1.630 km",
+						"value": 1630174
+					},
+					"duration": {
+						"text": "1 dia 1 hora",
+						"value": 89173
+					},
+					"status": "OK"
+				}
+			]
+		},
+		{
+			"elements": [
+				{
+					"distance": {
+						"text": "441 km",
+						"value": 441104
+					},
+					"duration": {
+						"text": "6 horas 21 minutos",
+						"value": 22887
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "1.632 km",
+						"value": 1631892
+					},
+					"duration": {
+						"text": "1 dia 1 hora",
+						"value": 88670
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "1 m",
+						"value": 0
+					},
+					"duration": {
+						"text": "1 min",
+						"value": 0
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "278 km",
+						"value": 278332
+					},
+					"duration": {
+						"text": "3 horas 52 minutos",
+						"value": 13896
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "3,8 km",
+						"value": 3776
+					},
+					"duration": {
+						"text": "9 minutos",
+						"value": 530
+					},
+					"status": "OK"
+				}
+			]
+		},
+		{
+			"elements": [
+				{
+					"distance": {
+						"text": "476 km",
+						"value": 475901
+					},
+					"duration": {
+						"text": "8 horas 4 minutos",
+						"value": 29031
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "1.416 km",
+						"value": 1416156
+					},
+					"duration": {
+						"text": "21 horas 11 minutos",
+						"value": 76277
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "279 km",
+						"value": 279374
+					},
+					"duration": {
+						"text": "3 horas 46 minutos",
+						"value": 13542
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "1 m",
+						"value": 0
+					},
+					"duration": {
+						"text": "1 min",
+						"value": 0
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "277 km",
+						"value": 276672
+					},
+					"duration": {
+						"text": "3 horas 46 minutos",
+						"value": 13558
+					},
+					"status": "OK"
+				}
+			]
+		},
+		{
+			"elements": [
+				{
+					"distance": {
+						"text": "440 km",
+						"value": 439920
+					},
+					"duration": {
+						"text": "6 horas 21 minutos",
+						"value": 22870
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "1.631 km",
+						"value": 1630709
+					},
+					"duration": {
+						"text": "1 dia 1 hora",
+						"value": 88653
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "3,7 km",
+						"value": 3680
+					},
+					"duration": {
+						"text": "14 minutos",
+						"value": 861
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "277 km",
+						"value": 277251
+					},
+					"duration": {
+						"text": "3 horas 52 minutos",
+						"value": 13925
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "1 m",
+						"value": 0
+					},
+					"duration": {
+						"text": "1 min",
+						"value": 0
+					},
+					"status": "OK"
+				}
+			]
+		}
+	],
+	"status": "OK"
+}

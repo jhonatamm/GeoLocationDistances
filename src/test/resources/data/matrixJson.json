@@ -1,0 +1,38 @@
+{
+    "destination_addresses": [
+        "Campos dos Goytacazes, RJ, Brasil",
+        "São Paulo, Brasil"
+    ],
+    "origin_addresses": [
+        "Bom Jesus do Itabapoana - RJ, 28360-000, Brasil"
+    ],
+    "rows": [
+        {
+            "elements": [
+                {
+                    "distance": {
+                        "text": "102 km",
+                        "value": 101739
+                    },
+                    "duration": {
+                        "text": "1 hora 48 minutos",
+                        "value": 6500
+                    },
+                    "status": "OK"
+                },
+                {
+                    "distance": {
+                        "text": "1.161 km",
+                        "value": 1161043
+                    },
+                    "duration": {
+                        "text": "15 horas 25 minutos",
+                        "value": 55478
+                    },
+                    "status": "OK"
+                }
+            ]
+        }
+    ],
+    "status": "OK"
+}

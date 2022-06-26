@@ -1,0 +1,146 @@
+{
+	"destination_addresses": [
+		"Belo Horizonte, MG, Brasil",
+		"Campinas, SP, Brasil"
+	],
+	"origin_addresses": [
+		"Belo Horizonte, MG, Brasil",
+		"Salvador - BA, Brasil",
+		"Rio de Janeiro, RJ, Brasil",
+		"Campos dos Goytacazes - RJ, Brasil",
+		"Av. Rio Branco, 1 - Centro, Rio de Janeiro - RJ, 20090-003, Brasil"
+	],
+	"rows": [
+		{
+			"elements": [
+				{
+					"distance": {
+						"text": "1 m",
+						"value": 0
+					},
+					"duration": {
+						"text": "1 min",
+						"value": 0
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "578 km",
+						"value": 577789
+					},
+					"duration": {
+						"text": "7 horas 23 minutos",
+						"value": 26580
+					},
+					"status": "OK"
+				}
+			]
+		},
+		{
+			"elements": [
+				{
+					"distance": {
+						"text": "1.349 km",
+						"value": 1348774
+					},
+					"duration": {
+						"text": "20 horas 38 minutos",
+						"value": 74308
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "1.954 km",
+						"value": 1954090
+					},
+					"duration": {
+						"text": "1 dia 3 horas",
+						"value": 98326
+					},
+					"status": "OK"
+				}
+			]
+		},
+		{
+			"elements": [
+				{
+					"distance": {
+						"text": "441 km",
+						"value": 441104
+					},
+					"duration": {
+						"text": "6 horas 21 minutos",
+						"value": 22887
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "493 km",
+						"value": 492555
+					},
+					"duration": {
+						"text": "6 horas 10 minutos",
+						"value": 22218
+					},
+					"status": "OK"
+				}
+			]
+		},
+		{
+			"elements": [
+				{
+					"distance": {
+						"text": "476 km",
+						"value": 475901
+					},
+					"duration": {
+						"text": "8 horas 4 minutos",
+						"value": 29031
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "756 km",
+						"value": 755954
+					},
+					"duration": {
+						"text": "9 horas 32 minutos",
+						"value": 34318
+					},
+					"status": "OK"
+				}
+			]
+		},
+		{
+			"elements": [
+				{
+					"distance": {
+						"text": "440 km",
+						"value": 439920
+					},
+					"duration": {
+						"text": "6 horas 21 minutos",
+						"value": 22870
+					},
+					"status": "OK"
+				},
+				{
+					"distance": {
+						"text": "491 km",
+						"value": 491372
+					},
+					"duration": {
+						"text": "6 horas 10 minutos",
+						"value": 22200
+					},
+					"status": "OK"
+				}
+			]
+		}
+	],
+	"status": "OK"
+}

@@ -1,0 +1,314 @@
+{
+	"results": [
+		{
+			"address_components": [
+				{
+					"long_name": "1",
+					"short_name": "1",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Avenida Rio Branco",
+					"short_name": "Av. Rio Branco",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Centro",
+					"short_name": "Centro",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_1"
+					]
+				},
+				{
+					"long_name": "Rio de Janeiro",
+					"short_name": "Rio de Janeiro",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Rio de Janeiro",
+					"short_name": "RJ",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Brasil",
+					"short_name": "BR",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "20090-003",
+					"short_name": "20090-003",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "Av. Rio Branco, 1 - Centro, Rio de Janeiro - RJ, 20090-003, Brasil",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -22.8967687,
+						"lng": -43.1797403
+					},
+					"southwest": {
+						"lat": -22.897884,
+						"lng": -43.1804969
+					}
+				},
+				"location": {
+					"lat": -22.8973551,
+					"lng": -43.1802782
+				},
+				"location_type": "ROOFTOP",
+				"viewport": {
+					"northeast": {
+						"lat": -22.8959773697085,
+						"lng": -43.1788394197085
+					},
+					"southwest": {
+						"lat": -22.8986753302915,
+						"lng": -43.18153738029149
+					}
+				}
+			},
+			"partial_match": true,
+			"place_id": "ChIJa8BFOVp_mQARx6BKGN0xHpM",
+			"types": [
+				"premise"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Campos dos Goytacazes",
+					"short_name": "Campos dos Goytacazes",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Campos dos Goytacazes",
+					"short_name": "Campos dos Goytacazes",
+					"types": [
+						"administrative_area_level_4",
+						"political"
+					]
+				},
+				{
+					"long_name": "Campos dos Goytacazes",
+					"short_name": "Campos dos Goytacazes",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Rio de Janeiro",
+					"short_name": "RJ",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Brasil",
+					"short_name": "BR",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Campos dos Goytacazes, RJ, Brasil",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -21.6747513,
+						"lng": -41.2216359
+					},
+					"southwest": {
+						"lat": -21.8798216,
+						"lng": -41.4074889
+					}
+				},
+				"location": {
+					"lat": -21.7614561,
+					"lng": -41.3167841
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -21.6747513,
+						"lng": -41.2216359
+					},
+					"southwest": {
+						"lat": -21.8798216,
+						"lng": -41.4074889
+					}
+				}
+			},
+			"partial_match": true,
+			"place_id": "ChIJRbWBvtHVvQAR4Y4W5zaxl-4",
+			"types": [
+				"locality",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Belo Horizonte",
+					"short_name": "Belo Horizonte",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Belo Horizonte",
+					"short_name": "Belo Horizonte",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Minas Gerais",
+					"short_name": "MG",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Brasil",
+					"short_name": "BR",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Belo Horizonte, MG, Brasil",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -19.7763149,
+						"lng": -43.8647871
+					},
+					"southwest": {
+						"lat": -20.0291177,
+						"lng": -44.0633132
+					}
+				},
+				"location": {
+					"lat": -19.919052,
+					"lng": -43.9386685
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -19.7763149,
+						"lng": -43.8647871
+					},
+					"southwest": {
+						"lat": -20.0291177,
+						"lng": -44.0633132
+					}
+				}
+			},
+			"partial_match": true,
+			"place_id": "ChIJMyzPysqQpgARlznSOl55NVs",
+			"types": [
+				"locality",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Salvador",
+					"short_name": "Salvador",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Salvador",
+					"short_name": "Salvador",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Bahia",
+					"short_name": "BA",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Brasil",
+					"short_name": "BR",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Salvador, BA, Brasil",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -12.7861882,
+						"lng": -38.3060992
+					},
+					"southwest": {
+						"lat": -13.0173418,
+						"lng": -38.5341115
+					}
+				},
+				"location": {
+					"lat": -12.9777378,
+					"lng": -38.5016363
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -12.7861882,
+						"lng": -38.3060992
+					},
+					"southwest": {
+						"lat": -13.0173418,
+						"lng": -38.5341115
+					}
+				}
+			},
+			"partial_match": true,
+			"place_id": "ChIJvS5CUCARFgcRndtzlTaEHPc",
+			"types": [
+				"locality",
+				"political"
+			]
+		}
+	],
+	"status": "OK"
+}

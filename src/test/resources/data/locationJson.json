@@ -1,0 +1,95 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Avenida Rio Branco",
+                    "short_name": "Av. Rio Branco",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Centro",
+                    "short_name": "Centro",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brasil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "20090-003",
+                    "short_name": "20090-003",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Av. Rio Branco, 1 - Centro, Rio de Janeiro - RJ, 20090-003, Brasil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.8967687,
+                        "lng": -43.1797403
+                    },
+                    "southwest": {
+                        "lat": -22.897884,
+                        "lng": -43.1804969
+                    }
+                },
+                "location": {
+                    "lat": -22.8973551,
+                    "lng": -43.1802782
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.8959773697085,
+                        "lng": -43.1788394197085
+                    },
+                    "southwest": {
+                        "lat": -22.8986753302915,
+                        "lng": -43.18153738029149
+                    }
+                }
+            },
+            "place_id": "ChIJa8BFOVp_mQARx6BKGN0xHpM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "status": "OK"
+}
